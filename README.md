@@ -17,6 +17,6 @@
 > ~ เลโอนาร์โด ดา วินชี (Leonardo da Vinci)
 
 ### Status
-[![kigkosa GitHub stats](https://github-readme-stats.vercel.app/api?username=kigkosa&show_icons=true&count_private=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/kigkosa)
+[![kigkosa GitHub stats](https://github-readme-stats.vercel.app/api?username=kigkosa&show_icons=true&count_private=true)](https://github.com/kigkosa)
 
 

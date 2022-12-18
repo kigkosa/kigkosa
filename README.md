@@ -48,5 +48,6 @@
 
 <br />
 <br />
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/kigkosa)
----
+## Supporting
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R7D1A6E)

@@ -47,9 +47,11 @@
 <img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 
 <br />
-<br />
 
-### Supporting:
+
+## Supporting:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E7H4IUH)
+
+<br />
 

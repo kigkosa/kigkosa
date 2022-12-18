@@ -48,7 +48,7 @@
 
 <br />
 <br />
-## Supporting
+## Supporting:
 
-[[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R7D1A6E)](https://ko-fi.com/kigkosa)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E7H4IUH)
 

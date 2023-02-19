@@ -18,7 +18,7 @@
 
 ### Status
 [![kigkosa GitHub stats](https://github-readme-stats.vercel.app/api?username=kigkosa&show_icons=true&count_private=true)](https://github.com/kigkosa)
-[![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kigkosa6&langs_count=8&count_private=true&show_icons=true)](https://github.com/kigkosa)
+[![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kigkosa&langs_count=8&count_private=true&show_icons=true)](https://github.com/kigkosa)
 
 ### Connect with me:
 

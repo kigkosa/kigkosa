@@ -22,7 +22,7 @@
 [![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kigkosa&langs_count=8&count_private=true&show_icons=true)](https://github.com/kigkosa)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kigkosa&langs_count=8&count_private=true&show_icons=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/kigkosa))
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kigkosa&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/kigkosa))
 
 ### Connect with me:
 

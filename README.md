@@ -53,6 +53,7 @@
 ## Supporting:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E7H4IUH)
+<br />
 [![paypal.me/kigkosa123](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/kigkosa123)
 <br />
 

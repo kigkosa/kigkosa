@@ -19,7 +19,7 @@
 ### Status
 [![kigkosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kigkosa&show_icons=true&bg_color=00000000&count_private=true)](https://github.com/kigkosa)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kigkosa&layout=compact&count_private=true&show_icons=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/kigkosa))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kigkosa&layout=compact&count_private=true&show_icons=true)](https://github.com/kigkosa)
 
 ### Connect with me:
 

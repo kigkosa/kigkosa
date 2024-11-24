@@ -21,7 +21,6 @@
 ![kigkosa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kigkosa&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true)
 ![kigkosa's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kigkosa&theme=dark&hide_border=true)
 ![kigkosa's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kigkosa&theme=dark&hide_border=true&langs_count=15&layout=compact&hide=other,xml,text&custom_title=Language%20Experience)
-![kigkosa's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kigkosa&theme=darkhub&no-bg=true&no-frame=true&margin-w=30)
 
 ### Connect with me:
 

@@ -57,4 +57,4 @@
 <br /><br />
 [![paypal.me/kigkosa123](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/kigkosa123)
 <br />
-
+![kigkosa's GitHub Profile Views](https://komarev.com/ghpvc/?username=kigkosa&color=blue&style=for-the-badge)

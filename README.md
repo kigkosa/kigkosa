@@ -23,8 +23,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/Kig.ITS)
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC-18x5gL2wa6YpQVCTq9vsg)
+[![Facebook](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/Kig.ITS)
+[![YouTube](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/channel/UC-18x5gL2wa6YpQVCTq9vsg)
 
 <br />
 

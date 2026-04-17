@@ -16,6 +16,8 @@
 >
 > ~ เลโอนาร์โด ดา วินชี (Leonardo da Vinci)
 
+![kigkosa's GitHub Profile Views](https://komarev.com/ghpvc/?username=kigkosa&color=blue&style=for-the-badge)
+
 ## 📊 Github Stats
 ![kigkosa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kigkosa&layout=compact&theme=dark&hide_border=true)
 ![kigkosa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kigkosa&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true)
@@ -39,8 +41,5 @@
 
 ## Supporting:
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E7H4IUH)
-<br /><br />
-[![paypal.me/kigkosa123](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/kigkosa123)
-<br />
-![kigkosa's GitHub Profile Views](https://komarev.com/ghpvc/?username=kigkosa&color=blue&style=for-the-badge)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/E1E7H4IUH)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kigkosa123)
